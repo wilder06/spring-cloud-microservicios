@@ -27,8 +27,6 @@ U
 %springboot-servicio-productos/pom.xml,f\9\f92e9723181fdcb7eb86709bd60ff2ac2c63c887
 ©
 yspringboot-servicio-productos/src/main/java/com/formacionbdi/springboot/app/productos/controllers/ProductoController.java,f\7\f704781847d298f3ff6b6b39bdfa44a0e51899af
-›
-kspringboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/controllers/ItemController.java,5\5\55a1dfb7fb94c5c4e7fd8fa22f8b314ca48261ae
 Z
 *springboot-servicio-gateway-server/pom.xml,4\a\4a9e40e744d305f0178659e56336ec7eeea918e1
 ¹
@@ -41,7 +39,15 @@ Y
 )springboot-servicio-config-server/pom.xml,c\9\c9c82371cfd86b65ed279f573c0e1c78e3fb4f95
 Š
 Zspringboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/AppConfig.java,e\0\e0f1ca66c1a0f94be3db8fbdc19d2bde0c57da24
+Z
+*config-data/servicio-items-prod.properties,e\c\ec61d078ff74fcca2ae156ab8b49bf86987d1422
 ¢
 rspringboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/SpringbootServicioItemApplication.java,1\e\1e0055c3c57063edfa7de71984564d63af377768
 P
  springboot-servicio-item/pom.xml,7\f\7f37477dc9123e2fab8d25a5a9199f36a91e4962
+v
+Fspringboot-servicio-usuarios/src/main/resources/application.properties,0\3\0388e3ff65a49956d9a51ed81f17292fe3452b61
+U
+%config-data/servicio-items.properties,7\8\788f7e6ed23dc1a7e5ca404995a95d5c8cba6809
+›
+kspringboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/controllers/ItemController.java,5\5\55a1dfb7fb94c5c4e7fd8fa22f8b314ca48261ae

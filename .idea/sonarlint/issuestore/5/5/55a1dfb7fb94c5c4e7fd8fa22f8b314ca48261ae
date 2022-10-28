@@ -1,6 +1,8 @@
 
 E
-java:S3740"/Provide the parametrized type for this generic.(Ïÿé´
-V	java:S125"<This block of commented-out lines of code should be removed.(™¥•øùÿÿÿÿ
-N	java:S106#"9Replace this use of System.out or System.err by a logger.(¬É”Â
-N	java:S106$"9Replace this use of System.out or System.err by a logger.(ñšÔ
+java:S3740"/Provide the parametrized type for this generic.(Ïÿé´
+V	java:S125"<This block of commented-out lines of code should be removed.(™¥•øùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¬É”Â
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ñšÔ
+
+java:S1128"]Remove this unused import 'org.springframework.cloud.context.config.annotation.RefreshScope'.(­¾î²ûÿÿÿÿ8ðª‰ùÁ0
