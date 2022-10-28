@@ -35,8 +35,6 @@ Z
 ˆspringboot-servicio-gateway-server/src/main/java/com/formacionbdi/springboot/app/gateway/SpringbootServicioGatewayServerApplication.java,6\7\67abfca5712577e7e0e2a66300d296585e536483
 ©
 yspringboot-servicio-gateway-server/src/main/java/com/formacionbdi/springboot/app/gateway/filters/EjemploGlobalFilter.java,f\d\fd69a6e79dcacae7800f24e3bee7f6e5fc796725
-{
-Kspringboot-servicio-config-server/src/main/resources/application.properties,c\4\c40f17abd2d6cd0169a115812c5cedc0cca53227
 ¶
 …springboot-servicio-config-server/src/main/java/com/formacionbdi/springboot/app/config/SpringbootServicioConfigServerApplication.java,b\9\b95128830497324f7731f565135c7afa9d1a71a8
 Y
@@ -47,9 +45,3 @@ Zspringboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/App
 rspringboot-servicio-item/src/main/java/com/formacionbdi/springboot/app/item/SpringbootServicioItemApplication.java,1\e\1e0055c3c57063edfa7de71984564d63af377768
 P
  springboot-servicio-item/pom.xml,7\f\7f37477dc9123e2fab8d25a5a9199f36a91e4962
-P
- config/servicio-items.properties,f\3\f340a0334b355babc94682891cb7146631191099
-U
-%config/servicio-items-prod.properties,c\b\cb9eadb10385849e1b93df6e763ac6f486ce0c57
-T
-$config/servicio-items-dev.properties,6\7\677f5d2fa0b0fe169a38d09a74fcd475e61aa325
